@@ -4,7 +4,7 @@ list of curated tools and code snippet for generating data ... **fake data**
 
 ## online sits
 
-## web(easy-)
+## web(handy data generator)
 
 - [https://www.mockaroo.com/](https://www.mockaroo.com/)
 
